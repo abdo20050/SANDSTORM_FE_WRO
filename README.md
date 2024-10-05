@@ -1,2 +1,2 @@
 # SANDSTORM_FE_WRO
-Official SANDSTORM's future engineers repo for WRO
+Official SANDSTORM's future engineers repo for WRO, Here is our GitHub Documentation, You can navigate through it using the names on the Folders, "Code" has the main program and the testing program. "Schemes" has journals, , CAD files, BOM, Diagrams, and other documents. "Videos" got YouTube links for the videos of the trials. "Images" got photos of the prototype, photos of team members, logo, and some photos of the journey. 
