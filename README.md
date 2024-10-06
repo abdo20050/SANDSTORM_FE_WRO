@@ -63,10 +63,13 @@ We tested the robot through practice laps and test drives to ensure that balance
 
 `MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily).`
 
-<img src="ImagesV/v2.0/image-6.jpeg" alt="Custom **3D-Printed Chassis** – Lightweight and durable, designed to securely hold all components." width="400"/>
-Custom **3D-Printed Chassis** – Lightweight and durable, designed to securely hold all components.
+<img src="ImagesV/v2.0/image-6.jpeg" alt="Custom 3D-Printed Chassis – Lightweight and durable, designed to securely hold all components." width="400"/>
 
-**Power Supply** – Powered by **6 lithium batteries**, ensuring reliable energy for all components.
+`Custom 3D-Printed Chassis – Lightweight and durable, designed to securely hold all components.`
+
+<img src="ImagesV/v2.0/image-7.webp" alt="Power Supply – Powered by 6 lithium batteries, ensuring reliable energy for all components." width="400"/>
+
+`Power Supply – Powered by 6 lithium batteries, ensuring reliable energy for all components.`
 
 ---
 
