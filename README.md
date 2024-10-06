@@ -27,13 +27,27 @@ To keep track of its movement and ensure accurate lap completion, we’ve incorp
 We were testing the robot in the challenge by having it do practice laps and test drives to insure that balance, accuracy and precision are on point, This allows us to monitor the robot’s performance during the challenge and make adjustments if necessary.
 
 # Key Components at a Glance:
-Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera.
-6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion.
-MG995 Servo Motor – Controls the front wheels for steering.
-L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor.
-Webcam – Captures live video for real-time object detection and lane following.
-MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting.
+
+![Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera.](image-1.png)
+`Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera.`
+
+![6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion.](image-2.png)
+`6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion.`
+
+![MG995 Servo Motor – Controls the front wheels for steering.](image.png)
+`MG995 Servo Motor – Controls the front wheels for steering.`
+
+![L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor.](image-3.png)
+`L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor.`
+
+![Webcam – Captures live video for real-time object detection and lane following.](image-4.png)
+`Webcam – Captures live video for real-time object detection and lane following.`
+
+![MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily).](image-5.png)
+`MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily).`
+
 Custom 3D-Printed Chassis – Lightweight and durable, designed to hold all components securely.
+
 Power Supply – Powered by 6 lithium batteries, ensuring reliable energy for all components.
 
 This is the robot we’ve designed and built to tackle this year's challenge! For more details on how it works and how we approached the problem, feel free to explore the source code and documentation on our GitHub: https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main, there is also a document that has more information: https://docs.google.com/document/d/1cCJuQa-ENeIftLrWq0BU486fTGV7BMiAK_tZXONVTxw/edit?usp=sharing, please request access or ask one of the team member to show you.
