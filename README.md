@@ -2,15 +2,22 @@
 
 Official SANDSTORM's future engineers repo for WRO. Here is our GitHub Documentation. You can navigate through it using the folder names:
 - **Code** contains the main program and the testing program.
-- **Schemes** includes journals, CAD files, BOM, diagrams, and other documents.
+- **Schemes** includes journals, photos of CAD files, BOM, diagrams, and other documents.
 - **Videos** has YouTube links for the trials.
-- **Images** contains photos of the prototype, team members, logo, and journey photos.
+- **ImagesV** contains photos of the prototypes, and vehicle parts
+- **ImagesT** contains photos of the team members, logo, and our journey
 
 # Hello, we are Team SANDSTORM!
 
 We’re excited to introduce our robot for this year’s competition. You can check out a video of the robot in action here: [YouTube Video Link].
 
 Additionally, all of our source code and design documentation can be found on our [GitHub repository](https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main.)
+
+# Strategy:
+
+Our robot is equipped with a webcam that handles multiple tasks, making the design more cost-efficient by reducing the need for additional sensors. The webcam detects the blue and orange lines to track the number of laps completed and determine whether the robot is moving clockwise or counterclockwise. It also identifies black walls to avoid collisions and reverse if necessary.
+
+For the obstacle challenge, the webcam continues its primary functions and additionally detects red and green traffic signals to decide the direction the robot should take. The webcam is also used to adjust the calibration to accommodate different lighting conditions. Overall, the robot relies entirely on the webcam for all tasks in the challenge.
 
 # Overview of Our Robot Design:
 
