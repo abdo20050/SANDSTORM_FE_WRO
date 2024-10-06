@@ -39,27 +39,27 @@ We tested the robot through practice laps and test drives to ensure that balance
 
 # Key Components at a Glance:
 
-<img src="image-1.png" alt="Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera." width="400"/>
+<img src="ImagesV/v2.0/image-1.png" alt="Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera." width="400"/>
 
 `Raspberry Pi 5 – The main controller for processing inputs and controlling the motors and camera.`
 
-<img src="image-2.png" alt="6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion." width="400"/>
+<img src="ImagesV/v2.0/image-2.png" alt="6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion." width="400"/>
 
 `6V T-Shaped DC Motor – Drives the rear wheels, enabling smooth forward and backward motion.`
 
-<img src="image.png" alt="MG995 Servo Motor – Controls the front wheels for steering." width="400"/>
+<img src="ImagesV/v2.0/image.png" alt="MG995 Servo Motor – Controls the front wheels for steering." width="400"/>
 
 `MG995 Servo Motor – Controls the front wheels for steering.`
 
-<img src="image-3.png" alt="L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor." width="400"/>
+<img src="ImagesV/v2.0/image-3.png" alt="L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor." width="400"/>
 
 `L298N H-Bridge – Motor driver that controls the speed and direction of the DC motor.`
 
-<img src="image-4.png" alt="Webcam – Captures live video for real-time object detection and lane following." width="400"/>
+<img src="ImagesV/v2.0/image-4.png" alt="Webcam – Captures live video for real-time object detection and lane following." width="400"/>
 
 `Webcam – Captures live video for real-time object detection and lane following.`
 
-<img src="image-5.png" alt="MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily)." width="400"/>
+<img src="ImagesV/v2.0/image-5.png" alt="MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily)." width="400"/>
 
 `MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily).`
 
