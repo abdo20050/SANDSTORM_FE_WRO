@@ -10,7 +10,7 @@ Official SANDSTORM's future engineers repo for WRO. Here is our GitHub Documenta
 
 We’re excited to introduce our robot for this year’s competition. You can check out a video of the robot in action here: [YouTube Video Link].
 
-Additionally, all of our source code and design documentation can be found on our GitHub repository: https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main.
+Additionally, all of our source code and design documentation can be found on our [GitHub repository](https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main.)
 
 # Overview of Our Robot Design:
 
@@ -73,7 +73,7 @@ We tested the robot through practice laps and test drives to ensure that balance
 
 ---
 
-This is the robot we’ve designed and built to tackle this year's challenge! For more details on how it works and how we approached the problem, feel free to explore the source code and documentation on our GitHub: https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main.
+This is the robot we’ve designed and built to tackle this year's challenge! For more details on how it works and how we approached the problem, feel free to explore the source code and documentation on our [GitHub](https://github.com/abdo20050/SANDSTORM_FE_WRO/tree/main.)
 
 Additionally, here’s a document with more information: [Google Doc Link](https://docs.google.com/document/d/1cCJuQa-ENeIftLrWq0BU486fTGV7BMiAK_tZXONVTxw/edit?usp=sharing) (please request access or ask a team member for details).
 
