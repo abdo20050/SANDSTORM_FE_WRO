@@ -440,7 +440,7 @@ while True:
 
     # Display frame with drawn contours and rectangles
     # try:
-    #     cv2.imshow("Autonomous Car", frame)
+    cv2.imshow("Autonomous Car", frame)
     # except :
     #     pass
     key = cv2.waitKey(1) & 0xFF
