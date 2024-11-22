@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from gpiozero import LED, Motor, Servo, Button
 import time
-from adafruit_servokit import ServoKit
+from adaftimruit_servokit import ServoKit
 # from calibration_v2 import load_hsv_from_json
 import json
 import os
