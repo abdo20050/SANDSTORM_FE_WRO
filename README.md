@@ -66,7 +66,7 @@ We tested the robot through practice laps and test drives to ensure that balance
 
 `Webcam – Captures live video for real-time object detection and lane following.`
 
-<img src="ImagesV/v2.0/image-5.png" alt="MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily)." width="400"/>
+<img src="ImagesV/v3.0/gyro.jpg" alt="GY-521, MPU6050 – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily for v2.0, now its back on v3,0)." width="400"/>
 
 `MPU6050 IMU – Tracks orientation and movement to ensure accurate lap counting (we removed it temporarily).`
 
